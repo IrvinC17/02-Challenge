@@ -1,11 +1,11 @@
-## User Story
+# 02 Challenge
 
+## User Story
 As A marketing agency
 I Want a codebase that follows accessibility standards
 So That our own site is optimized for search engines
 
 ## Acceptance Criteria
-
 Given a webpage meets accessibilty standards
 When I view the source code
 Then I find semantic HTML elements
